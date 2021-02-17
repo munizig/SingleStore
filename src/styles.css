@@ -1,13 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 
 /* Show it is fixed to the top */
-body {
-    min-height: 75rem;
-    padding-top: 4.5rem;
-  }
-  
+
 .main-container{
-  padding-top:10px;
+  padding-top:100px;
   padding-right:15px;
   padding-left:15px;
   padding-bottom:100px;
